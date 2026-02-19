@@ -1,8 +1,39 @@
 {
   "posts": [
-    "build-rituals-for-tiny-teams.md",
-    "pixel-math-before-polish.md",
-    "what-static-publishing-buys-you.md",
-    "postmortem-notes-you-can-reuse.md"
+    {
+      "path": "build-rituals-for-tiny-teams.md",
+      "title": "Build Rituals for Tiny Teams",
+      "date": "2026-02-14",
+      "tags": ["process", "shipping", "ops"],
+      "summary": "How we keep releases boring even when the roadmap is not."
+    },
+    {
+      "path": "syntax-highlighting-on-wasm.md",
+      "title": "Syntax Highlighting on Wasm",
+      "date": "2026-02-19",
+      "tags": ["wasm", "markdown", "ui"],
+      "summary": "A quick check that fenced code blocks render with syntax colors in the post window."
+    },
+    {
+      "path": "pixel-math-before-polish.md",
+      "title": "Pixel Math Before Polish",
+      "date": "2026-02-06",
+      "tags": ["design", "ui", "craft"],
+      "summary": "A reminder that layout clarity beats decorative complexity."
+    },
+    {
+      "path": "what-static-publishing-buys-you.md",
+      "title": "What Static Publishing Buys You",
+      "date": "2026-01-26",
+      "tags": ["docs", "infra", "performance"],
+      "summary": "Why static files still win for docs, changelogs, and engineering blogs."
+    },
+    {
+      "path": "postmortem-notes-you-can-reuse.md",
+      "title": "Postmortem Notes You Can Reuse",
+      "date": "2026-01-08",
+      "tags": ["reliability", "incidents", "writing"],
+      "summary": "A compact template for incident writeups that engineers actually read."
+    }
   ]
 }
